@@ -1,0 +1,1407 @@
+smuggler	0
+island	1
+smugglers	2
+boat	3
+camp	4
+jungle	5
+forest	6
+prison	7
+car	8
+group	9
+guy	10
+water	11
+brother	12
+agent	13
+kind	14
+guys	15
+house	16
+nights	17
+countries	18
+train	19
+police	20
+mobile	21
+journey	22
+o'clock	23
+man	24
+fence	25
+passport	26
+month	27
+station	28
+room	29
+chance	30
+sea	31
+life	32
+ship	33
+organizations	34
+mafia	35
+road	36
+army	37
+future	38
+situation	39
+visa	40
+war	41
+immigrants	42
+interview	43
+airport	44
+children	45
+phone	46
+documents	47
+shortcuts	48
+village	49
+forces	50
+hostel	51
+city	52
+side	53
+mountains	54
+taxi	55
+lot	56
+morning	57
+asylum	58
+border	59
+kilometers	60
+hours	61
+agents	62
+policemen	63
+river	64
+mountain	65
+university	66
+mum	67
+uncle	68
+polices	69
+job	70
+months	71
+fingerprints	72
+contact	73
+organization	74
+flight	75
+problems	76
+half	77
+cell phone	78
+minutes	79
+boats	80
+euros	81
+beginning	82
+mistake	83
+year	84
+hotel	85
+thing	86
+papers	87
+refugees	88
+route	89
+jail	90
+line	91
+family	92
+ferry	93
+tomorrow	94
+paper	95
+taxi driver	96
+police station	97
+government	98
+dollars	99
+driver	100
+person	101
+years	102
+shop	103
+truck	104
+breakfast	105
+friend	106
+town	107
+cell	108
+moment	109
+sister	110
+questions	111
+problem	112
+difficulties	113
+bus station	114
+language	115
+rights	116
+gossip	117
+friends	118
+mind	119
+gas station	120
+father	121
+plane	122
+borders	123
+wife	124
+checkpoint	125
+waves	126
+law	127
+part	128
+dogs	129
+point	130
+asthma	131
+relatives	132
+parents	133
+mother	134
+volunteers	135
+tent	136
+decision	137
+blankets	138
+interpreter	139
+card	140
+cars	141
+translation	142
+tents	143
+gas	144
+signature	145
+animals	146
+ticket	147
+shortcut	148
+apartment	149
+coffee	150
+babies	151
+transport	152
+police paper	153
+food	154
+sleep	155
+business	156
+buses	157
+information	158
+beach	159
+destination	160
+experience	161
+things	162
+picture	163
+farmer	164
+times	165
+week	166
+price	167
+cousin	168
+pm	169
+land	170
+baby	171
+permission	172
+bags	173
+hour	174
+rules	175
+education	176
+leader	177
+trip	178
+families	179
+story	180
+identity	181
+kids	182
+news	183
+thought	184
+list	185
+ez_zor	186
+peace	187
+idea	188
+clothes	189
+student	190
+pain	191
+desert	192
+midnight	193
+cinema	194
+soldiers	195
+weeks	196
+bit	197
+light	198
+places	199
+world	200
+home	201
+number	202
+rest	203
+registration	204
+vision	205
+thoughts	206
+area	207
+weather	208
+money	209
+embassy	210
+refugee	211
+container	212
+belt	213
+tickets	214
+toilets	215
+days	216
+plan	217
+place	218
+danger	219
+lady	220
+feeling	221
+trees	222
+country	223
+train station	224
+center	225
+program	226
+bag	227
+attempt	228
+humanity	229
+languages	230
+evening	231
+reason	232
+houses	233
+fight	234
+age	235
+van	236
+school	237
+biscuits	238
+teacher	239
+meters	240
+middle	241
+tomorrow morning	242
+worker	243
+location	244
+cities	245
+pictures	246
+stories	247
+ways	248
+women	249
+province	250
+camps	251
+credit	252
+terminal	253
+park	254
+rain	255
+foot	256
+cousins	257
+payment	258
+names	259
+doctors	260
+plastic	261
+care	262
+rule	263
+woman	264
+society	265
+residence	266
+end	267
+internet	268
+roads	269
+salary	270
+husband	271
+shoes	272
+system	273
+residency	274
+migrants	275
+case	276
+office	277
+map	278
+tea	279
+grandfather	280
+shower	281
+rocks	282
+service	283
+media	284
+stay	285
+front	286
+game	287
+workers	288
+threats	289
+position	290
+opinion	291
+protection	292
+adventure	293
+work	294
+girl	295
+stuff	296
+space	297
+president	298
+address	299
+security	300
+today	301
+process	302
+bus terminal	303
+body	304
+tractor	305
+khartya	306
+army island	307
+judge	308
+passengers	309
+villages	310
+trouble	311
+wishes	312
+rooms	313
+plastic boat	314
+shift	315
+choice	316
+risk	317
+winter	318
+camera	319
+procedure	320
+visas	321
+souvenir	322
+whistle	323
+dream	324
+stamp	325
+travel	326
+conditions	327
+seaside	328
+facilities	329
+26th	330
+sisters	331
+document	332
+nations	333
+field	334
+dad	335
+translator	336
+grandmother	337
+drive	338
+smuggling	339
+capital	340
+balloon	341
+girls	342
+status	343
+fear	344
+dog	345
+officers	346
+garden	347
+step	348
+touch	349
+jungles	350
+learner	351
+restaurant	352
+provinces	353
+condition	354
+culture	355
+cold	356
+electricity	357
+chairs	358
+citizen	359
+terrorists	360
+gate	361
+police officers	362
+direction	363
+kitchen	364
+feet	365
+start	366
+freedom	367
+period	368
+executor	369
+manager	370
+afternoon	371
+cameras	372
+bus ticket	373
+engineer	374
+brothers	375
+noon	376
+child	377
+tv	378
+check	379
+window	380
+mytilini	381
+aim	382
+opportunities	383
+situations	384
+governments	385
+fingers	386
+autobus	387
+bed	388
+street	389
+24th	390
+distance	391
+military	392
+options	393
+credit card	394
+turn	395
+coast	396
+convoy	397
+singles	398
+doors	399
+back	400
+rescue	401
+cigarettes	402
+behaviour	403
+policeman	404
+boy	405
+border police	406
+eyes	407
+past	408
+luggage	409
+website	410
+option	411
+taxis	412
+capital city	413
+groups	414
+fellows	415
+call	416
+thieves	417
+bridge	418
+agreement	419
+time	420
+fire	421
+luck	422
+islands	423
+supermarket	424
+ladies	425
+services	426
+head	427
+sheep	428
+coffee shop	429
+perspective	430
+cultures	431
+lawyer	432
+tourist	433
+deportation	434
+universities	435
+yesterday	436
+staff	437
+race	438
+transportation	439
+streets	440
+snow	441
+country visa	442
+garbage	443
+watch	444
+percentage	445
+team	446
+company	447
+corn	448
+sticks	449
+face	450
+power	451
+humans	452
+page	453
+sound	454
+studies	455
+blood	456
+car driver	457
+oil	458
+words	459
+hand	460
+book	461
+jobs	462
+health	463
+drink	464
+housewife	465
+photo	466
+cola	467
+mom	468
+son	469
+goodbye	470
+burger	471
+masks	472
+air	473
+walk	474
+control	475
+directions	476
+solution	477
+noise	478
+interviews	479
+daughter	480
+tourism	481
+charge	482
+boss	483
+armies	484
+garage	485
+walking	486
+door	487
+troubles	488
+workshop	489
+opposition	490
+transporter	491
+gendarmes	492
+29th	493
+underwear	494
+contacts	495
+sister_in_law	496
+terrorist	497
+partners	498
+airplane	499
+wave	500
+emotions	501
+terms	502
+conflict	503
+disaster	504
+1st	505
+break	506
+floor	507
+southwest	508
+train tickets	509
+foreigners	510
+experiences	511
+nationality	512
+question	513
+violence	514
+top	515
+shops	516
+areas	517
+nighttime	518
+emergency	519
+date	520
+bathroom	521
+games	522
+relative	523
+post	524
+minute	525
+difference	526
+entrance	527
+border name	528
+car garage	529
+juices	530
+vegetables	531
+backside	532
+onions	533
+ship ticket	534
+nineteen_meter boat	535
+nineteen_meter	536
+army problems	537
+mosque	538
+hands	539
+seat	540
+daughters	541
+oxygen	542
+appointment	543
+requirements	544
+history	545
+wifi	546
+bus	547
+crisis	548
+ideas	549
+windows	550
+cards	551
+others people	552
+photos	553
+conversation	554
+men	555
+knees	556
+pocket	557
+numbers	558
+drivers	559
+report	560
+sky	561
+cross	562
+death	563
+detention center	564
+broker	565
+detention	566
+booking	567
+facts	568
+fields	569
+wood	570
+rescue team	571
+minorities	572
+safety belt	573
+safety	574
+fever	575
+socks	576
+phone call	577
+day	578
+citizenship	579
+colleagues	580
+hospital	581
+thinking	582
+advantage	583
+dreams	584
+laser	585
+wall	586
+exit	587
+stick	588
+police car	589
+knowledge	590
+camping	591
+fellow	592
+inhalator	593
+tradition	594
+immigration	595
+owner	596
+lives	597
+lunch	598
+lawyers	599
+activities	600
+medicine	601
+leg	602
+charity	603
+routine	604
+guns	605
+teachers	606
+raining	607
+hostels	608
+treatment	609
+beliefs	610
+chances	611
+mine	612
+jacket	613
+bird	614
+spot	615
+tonight	616
+prints	617
+certificate	618
+syrians	619
+majors	620
+flower	621
+transit camp	622
+cacao	623
+meeting	624
+mtcb	625
+asylum center	626
+taste	627
+patience	628
+pass	629
+skin	630
+transit	631
+aisles	632
+hardship	633
+liras	634
+bombardment	635
+spaces	636
+passenger	637
+border polices	638
+registration centre	639
+biscuit	640
+stopping	641
+answer	642
+weapons	643
+return	644
+tunnel	645
+tracks	646
+agency	647
+refugee agency	648
+return trip	649
+centre	650
+aliens	651
+stopping point	652
+boxes	653
+letters	654
+couple	655
+lights	656
+machine	657
+video	658
+jackets	659
+court	660
+love	661
+respect	662
+trucks	663
+district	664
+fines	665
+packets	666
+cans	667
+tourist place	668
+destiny	669
+grass	670
+nation	671
+advance	672
+mafias	673
+department	674
+militias	675
+stability	676
+materials	677
+neighbourhood	678
+villagers	679
+fuel	680
+voice	681
+crime	682
+ground	683
+kinds	684
+speech	685
+passports	686
+issue	687
+study	688
+opportunity	689
+calls	690
+energy	691
+bombs	692
+night	693
+kilometer	694
+opposition army	695
+building	696
+confirmation	697
+section	698
+cab	699
+pay	700
+chef	701
+chef executor	702
+executor manager	703
+colleague	704
+sin	705
+seekers	706
+science	707
+businessman	708
+sciences	709
+nationalities	710
+pants	711
+lunchtime	712
+minors	713
+movie	714
+taxi shop	715
+advice	716
+phone number	717
+usb	718
+bullshit	719
+sun	720
+blanket	721
+religion	722
+nephew	723
+events	724
+addition	725
+9th	726
+pet	727
+connection	728
+material	729
+criminals	730
+meaning	731
+suicide	732
+liar	733
+suicide bomb	734
+bomb	735
+pomp	736
+pashto	737
+human	738
+living	739
+responsibility	740
+lines	741
+bank	742
+mission	743
+details	744
+decisions	745
+heart	746
+ability	747
+crowd	748
+gun	749
+rainwater	750
+dinars	751
+trains	752
+telephone	753
+dinner	754
+articles	755
+amount	756
+kid	757
+devices	758
+acceptance	759
+scholarship	760
+scenario	761
+rejection	762
+bill	763
+identity card	764
+shot	765
+chip	766
+vans	767
+boys	768
+insects	769
+farmers	770
+daytime	771
+bottles	772
+phone numbers	773
+autocar	774
+bombings	775
+footballer	776
+football	777
+football team	778
+bosses	779
+hill	780
+player	781
+yard	782
+fun	783
+concept	784
+view	785
+wind	786
+fuck	787
+heroes	788
+sense	789
+points	790
+shame	791
+prices	792
+exchange	793
+mistakes	794
+goods	795
+woods	796
+internet coffee	797
+travel agent	798
+fish	799
+heads	800
+videos	801
+marks	802
+pack	803
+homes	804
+bench	805
+immigrant	806
+doctor	807
+luxury	808
+logic	809
+swimming	810
+guarantee	811
+farm	812
+cow	813
+shendar	814
+fingernails	815
+tanks	816
+chocolates	817
+storm	818
+police center	819
+travels	820
+wars	821
+sugar	822
+tank	823
+video camera	824
+towns	825
+miles	826
+pressure	827
+liars	828
+mum goodbye	829
+force	830
+target	831
+hammers	832
+chief	833
+helicopters	834
+toilet	835
+pilot	836
+half months	837
+energy drink	838
+fathers	839
+animal	840
+potato	841
+pronunciation	842
+habit	843
+engineering	844
+alcohol	845
+fucker	846
+mother fucker	847
+racism	848
+bars	849
+city name	850
+racists	851
+business tourism	852
+market	853
+contract	854
+supports	855
+smoke	856
+printer	857
+restaurants	858
+printer machine	859
+hair	860
+port	861
+hotels	862
+pension	863
+expectations	864
+smell	865
+strangers	866
+heat	867
+version	868
+shows	869
+tv shows	870
+participation	871
+movies	872
+cigarette	873
+procedures	874
+understanding	875
+waiting	876
+citizens	877
+fights	878
+duty	879
+life jacket	880
+message	881
+meal	882
+relocation	883
+strength	884
+photography	885
+signal	886
+answers	887
+consulate	888
+certificates	889
+smile	890
+student visa	891
+language course	892
+ambassador	893
+centres	894
+sons	895
+emergency doctors	896
+grandchildren	897
+members	898
+level language	899
+order	900
+level	901
+differences	902
+capital cities	903
+maps	904
+degrees	905
+comment	906
+accident	907
+b2 level	908
+b2	909
+loss	910
+ferry boat	911
+packages	912
+hero	913
+secret	914
+pen	915
+bridges	916
+battery	917
+diary	918
+band	919
+departure	920
+parking	921
+warriors	922
+fact	923
+stress	924
+phones	925
+prisoners	926
+data	927
+mobiles	928
+entry	929
+darkness	930
+sand	931
+pashtun	932
+computer	933
+self_confidence	934
+yacht	935
+dictator	936
+chair	937
+rescue teams	938
+capture	939
+screams	940
+sounds	941
+captives	942
+siege	943
+caravan	944
+treat	945
+pkk	946
+depression	947
+savages	948
+fault	949
+party	950
+obstacles	951
+base	952
+re_evaluation	953
+rebels	954
+rascals	955
+teams	956
+shit	957
+image	958
+speakers	959
+sincerity	960
+benefit	961
+colour	962
+farmer fields	963
+billions	964
+business condition	965
+fighting	966
+marriage	967
+family condition	968
+farmer visas	969
+disease	970
+milk	971
+food problems	972
+immigration jail	973
+temperature	974
+resources	975
+organization man	976
+wires	977
+30th	978
+thickness	979
+working house	980
+working	981
+life conditions	982
+boarding	983
+valley	984
+boarding card	985
+possibility	986
+coldness	987
+concern	988
+winter clothes	989
+gaps	990
+stars boat	991
+stars	992
+luxury life	993
+silence	994
+birds	995
+smuggling business	996
+shape	997
+alternative	998
+outlook	999
+dj	1000
+guitar	1001
+aims	1002
+movement	1003
+suit	1004
+swimming suit	1005
+backpack	1006
+pity	1007
+diversity	1008
+hospitality	1009
+wrong	1010
+estimating situation	1011
+estimating	1012
+huger number	1013
+huger	1014
+backgrounds	1015
+mentality	1016
+interaction	1017
+organization field	1018
+ride	1019
+element	1020
+geography	1021
+snakes	1022
+underage	1023
+region	1024
+relationship	1025
+crossing	1026
+piece	1027
+communities	1028
+cake	1029
+majority	1030
+fortune	1031
+minivan	1032
+flood	1033
+mineral	1034
+migrant	1035
+trust	1036
+remorse	1037
+memories	1038
+mineral water	1039
+memory	1040
+edge	1041
+train tomorrow	1042
+stations	1043
+exchange officers	1044
+festival	1045
+guard	1046
+left	1047
+border city	1048
+revolution	1049
+seats	1050
+improvement	1051
+box	1052
+legislation	1053
+minivans	1054
+letter	1055
+post office	1056
+plane tickets	1057
+donors	1058
+donations	1059
+deposit	1060
+sessions	1061
+phone calls	1062
+seeker	1063
+pocket money	1064
+polje	1065
+packet	1066
+kilos	1067
+official	1068
+tax	1069
+psychiatrists	1070
+employees	1071
+guarantees	1072
+seeker card	1073
+dates	1074
+forms	1075
+proof	1076
+nationality passport	1077
+properties	1078
+circles	1079
+border gate	1080
+traitor	1081
+gates	1082
+regime	1083
+opposition management	1084
+management	1085
+cooperation	1086
+navigation	1087
+glasses	1088
+airports	1089
+sadness	1090
+refugees status	1091
+officials	1092
+hall	1093
+surname	1094
+exhibition	1095
+employee	1096
+ages	1097
+identification	1098
+article	1099
+staying	1100
+art	1101
+art teacher	1102
+integration	1103
+sign	1104
+peace seekers	1105
+goal	1106
+facility	1107
+diploma	1108
+fees	1109
+ticket checker	1110
+checker	1111
+yesterday night	1112
+shelter	1113
+ticket man	1114
+entertainment	1115
+hobbies	1116
+dirty	1117
+reward	1118
+search	1119
+opposite	1120
+pockets	1121
+dresses	1122
+mouths	1123
+o'clock midnight	1124
+border security	1125
+spray	1126
+spray gas	1127
+lion	1128
+stand	1129
+tigers	1130
+punt	1131
+sleeping	1132
+asylum seekers	1133
+dick	1134
+dress	1135
+guarantee game	1136
+traffic	1137
+asylum papers	1138
+highway	1139
+journalist	1140
+sides	1141
+running	1142
+taxi stop	1143
+television	1144
+cutter	1145
+haram	1146
+fee	1147
+charger	1148
+stop	1149
+sketch	1150
+viber	1151
+breath	1152
+success	1153
+home country	1154
+elder	1155
+shipping	1156
+slope	1157
+priority	1158
+one cross	1159
+shipping police	1160
+television room	1161
+risks	1162
+organizers	1163
+schools	1164
+wonder situations	1165
+nonsense	1166
+existence	1167
+surprise feeling	1168
+survival person	1169
+survival	1170
+surprise	1171
+organization trip	1172
+minibus	1173
+judgment	1174
+landscape	1175
+cat	1176
+document papers	1177
+waiting hours	1178
+processes	1179
+volunteer	1180
+panic	1181
+organization places	1182
+hope	1183
+penalty	1184
+benefits	1185
+instinct	1186
+upside_down	1187
+season	1188
+belief	1189
+politics	1190
+classes	1191
+business situation	1192
+leaders	1193
+smuggler room	1194
+shirts	1195
+half hours	1196
+warnings	1197
+music	1198
+gender	1199
+neighbours	1200
+actors	1201
+family list	1202
+bottom	1203
+cheaters	1204
+challenge	1205
+mathematics	1206
+petrol	1207
+medication	1208
+approval	1209
+matter	1210
+spies	1211
+i363	1212
+investigations	1213
+file	1214
+email	1215
+cell phones	1216
+accent	1217
+tensions	1218
+lie	1219
+brutality	1220
+shopkeeper	1221
+refugee camp	1222
+tourists	1223
+angles	1224
+shoulders	1225
+rent	1226
+forests	1227
+laboratories	1228
+starting date	1229
+applications	1230
+detection	1231
+gym	1232
+gym registration	1233
+euro	1234
+canton	1235
+health insurance	1236
+insurance	1237
+invitation	1238
+identity paper	1239
+years protection	1240
+flight date	1241
+arguments	1242
+students	1243
+toast	1244
+mum look	1245
+laser line	1246
+package	1247
+detector	1248
+passport control	1249
+print	1250
+chin	1251
+flights	1252
+fog	1253
+airline company	1254
+airline	1255
+red	1256
+tree	1257
+starting	1258
+food materials	1259
+francs	1260
+aspects	1261
+card information	1262
+steps	1263
+puzzle	1264
+drama	1265
+way man	1266
+residence card	1267
+mediator	1268
+maker	1269
+fine	1270
+ids	1271
+south	1272
+waiting time	1273
+inside	1274
+plan b	1275
+residency papers	1276
+pause	1277
+cabin	1278
+cabin telephone	1279
+inspiration	1280
+track	1281
+boyfriend	1282
+inspector	1283
+identity cards	1284
+card number	1285
+password	1286
+angel	1287
+miracle	1288
+detection devices	1289
+dormitories	1290
+everyday	1291
+dhl	1292
+transfer	1293
+police boat	1294
+banana	1295
+exit way	1296
+boat ticket	1297
+check pronunciation	1298
+member	1299
+happiness	1300
+information card	1301
+soldier	1302
+taxes	1303
+state	1304
+xxx	1305
+train ticket	1306
+accommodation	1307
+faces	1308
+hell	1309
+quality	1310
+idiot	1311
+operation	1312
+talent	1313
+corner	1314
+support	1315
+pharmacy	1316
+notifications	1317
+views	1318
+motor	1319
+evidence	1320
+cancer	1321
+birth	1322
+standards	1323
+color	1324
+colors	1325
+percent chance	1326
+relocation program	1327
+table	1328
+attack	1329
+heart attack	1330
+percent	1331
+truck driver	1332
+hit	1333
+congratulations	1334
+summertime	1335
+crowds	1336
+border entry	1337
+nukta	1338
+km	1339
+branches	1340
+noises	1341
+dark	1342
+factory	1343
+ex_train station	1344
+ex_train	1345
+promise	1346
+ears	1347
+lighting	1348
+moon	1349
+panjabi	1350
+cut	1351
+cut fence	1352
+cars lights	1353
+sunflowers	1354
+gps	1355
+cornfields	1356
+12th	1357
+sympathy	1358
+scanners	1359
+tram	1360
+quarter	1361
+train system	1362
+talks	1363
+police procedures	1364
+pairs	1365
+attempts	1366
+alarm	1367
+arms	1368
+pakistanis	1369
+bulgarian	1370
+breads	1371
+ketchup	1372
+lock	1373
+silver	1374
+response	1375
+activity	1376
+talk	1377
+bottle	1378
+neck	1379
+grade	1380
+handbags	1381
+car window	1382
+pashtun actors	1383
+pashtun movies	1384
+actor	1385
+singers	1386
+intelligence	1387
+capital cinema	1388
+beds	1389
+block	1390
+checkpoints	1391
+slow	1392
+policy	1393
+police light	1394
+prayer	1395
+legs	1396
+sort	1397
+car windows	1398
+pizza	1399
+collection	1400
+adult	1401
+cheese	1402
+bread	1403
+centimetres	1404
+commissariats	1405
+people	1406
