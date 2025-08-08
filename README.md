@@ -1,4 +1,4 @@
-# Source codes for paper: Text Mining from Migration Narratives
+# ECMLPKDD2025: Text Mining from Migration Narratives
 
 ## **Note**: Due to the ethical guidelines, we could not provide the entire corpus of narratives for running from scratch. Instead, we have preprocessed all the necessary files to reproduce the results reported in this paper. Please follow all the instructions below for reproducibility.
 
