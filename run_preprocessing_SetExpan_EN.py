@@ -1,0 +1,3 @@
+from scripts.SetExpan.preprocessing_SetExpan_EN import run_all_the_preprocessing_for_english
+
+run_all_the_preprocessing_for_english()
