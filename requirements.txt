@@ -1,0 +1,18 @@
+spacy
+pandas
+numpy
+dframcy
+nltk
+fr_dep_news_trf @ https://github.com/explosion/spacy-models/releases/download/fr_dep_news_trf-3.7.2/fr_dep_news_trf-3.7.2-py3-none-any.whl
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+openpyxl
+fasttext
+transformers
+scipy==1.10.1
+flair
+stanza
+isodate==0.6.1
+pyparsing==3.1.2
+rdflib==7.0.0
+six==1.16.0
+tqdm==4.66.2
